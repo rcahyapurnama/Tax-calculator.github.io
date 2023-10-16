@@ -1,4 +1,4 @@
-<?php include("../index.html") ?>
+<?php include("../index.php") ?>
 <script src="assets/js/javascript.js"></script>
 
 <!-- awal judul -->
