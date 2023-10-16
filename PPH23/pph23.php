@@ -1,4 +1,4 @@
-<?php include("../index.php") ?>
+<?php include("../index.html") ?>
 <script src="../assets/js/javascriptpph22.js"></script>
 <div class="container">
     <div class="row text-center p-4 mt-5 ">
